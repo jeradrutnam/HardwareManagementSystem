@@ -101,7 +101,7 @@
             this.Controls.Add(this.txtUsername);
             this.Controls.Add(this.lblUsername);
             this.Name = "frmLogin";
-            this.Text = "Login";
+            this.Text = "Hardware Management System - Login";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmLogin_Closed);
             this.ResumeLayout(false);
             this.PerformLayout();

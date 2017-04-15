@@ -10,3 +10,15 @@ c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\Ha
 c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.csproj.GenerateResource.Cache
 c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.exe
 c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.pdb
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\HardwareManagementSystem.exe.config
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.exe
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.pdb
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\StockDB.mdf
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\StockDB_log.ldf
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\HardwareManagementSystem.exe
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\HardwareManagementSystem.pdb
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.frmMain.resources
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.frmLogin.resources
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.Properties.Resources.resources
+C:\Users\Jerad\Documents\GitHub\Jerad\sudesh\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.csproj.GenerateResource.Cache
