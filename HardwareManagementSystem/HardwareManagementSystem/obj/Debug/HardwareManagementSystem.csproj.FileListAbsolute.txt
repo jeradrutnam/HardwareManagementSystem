@@ -1,0 +1,12 @@
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\HardwareManagementSystem.exe.config
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\StockDB.mdf
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\StockDB_log.ldf
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\HardwareManagementSystem.exe
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\bin\Debug\HardwareManagementSystem.pdb
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.frmMain.resources
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.frmLogin.resources
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.Properties.Resources.resources
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.csproj.GenerateResource.Cache
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.exe
+c:\users\jerad\documents\visual studio 2015\Projects\HardwareManagementSystem\HardwareManagementSystem\obj\Debug\HardwareManagementSystem.pdb
